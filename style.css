@@ -1,0 +1,104 @@
+body{
+    
+    height: 100vh;
+    width: 100%;
+    background-image: url("https://wallpaperaccess.com/full/202976.jpg");
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+/* common */
+.banner .navbar-brand{
+    color: rgb(22, 22, 21);
+    font-size: 1.8em;
+    font-weight: 700;
+    margin-left: 10%;
+}
+.banner .navbar li a{
+    font-size: 1.2em;
+    color: rgb(19, 17, 17);
+    
+}
+
+section {
+    padding: 100px 0px;
+}
+header{
+	
+	border-bottom: 2px solid black;
+}
+.head-text {
+   
+     text-align: left;
+     color: rgb(16, 17, 17);
+}
+
+img.head-img {
+    width:40%;
+    border-radius: 20;
+
+}
+button .my-btn{
+	background: #75b61ac2;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 10px 20px;
+}
+.my-btn:hover{
+	background: #75B61A;
+	color: rgb(224, 24, 24);
+	
+}
+section#shiping {
+    padding: 50px;
+    background: #19191a;
+    color: rgb(24, 4, 4);
+}
+
+.box-icon {
+    display: inline-block;
+}
+
+.box-title {
+    display: inline-grid;
+    margin-left: 20px;
+}
+
+.box-title h3 {
+    font-size: 23px;
+}
+
+.box-icon i {
+    color: #1332e4;
+    font-size: 30px;
+}
+.shipping-box {
+    background: #edf1f3;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+.login {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 400;
+    margin-top: 10%;
+    margin-left: 25%;
+    color: rgb(1, 10, 12);
+}
+.footer{
+    background-color: white;
+}
+.footer .footer-title{
+    align-content: center;
+    color: rgb(236, 229, 229);
+    font-size:large;
+    font-weight: 300;
+}
+.footer .footer-desc{
+    align-content: center;
+    color: rgb(243, 235, 235);
+    font-size: medium;
+    font-weight: 100;
+}
+
